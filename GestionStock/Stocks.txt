@@ -1,0 +1,6 @@
+1:Tongs:0:disponible
+2:Ballon:5:Rupture
+3:Maillot:10:disponible
+4:Seau:50:Reapprovisionnement
+5:Pelle:4:Rupture
+6:Sac:8:disponible
